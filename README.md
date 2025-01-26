@@ -4,6 +4,7 @@
 This is my school github account. This respository will hold my school assignments at WakeTech.
 
 # About Me
+
  ## My Interests
  * Piano
      * I've been playing for around 7 years.
@@ -11,6 +12,7 @@ This is my school github account. This respository will hold my school assignmen
      * I'm very bad at it.
  * Reading
      * I like philosophical, sci-fi, manga, and webnovels.
+
  ## Websites I Recommend
  1. [Cobalt](https://cobalt.tools)
    * This website lets you download media from social media sites like YouTube without ads, trackers, or other shady shenanigans. Most downloader sites feel very suspicious, so I feel thankful towards the developer that decided to create this very useful website.
